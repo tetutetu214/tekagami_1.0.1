@@ -31,13 +31,14 @@
 
 /* 共通 */
 .indispensable {
-  background: #ea352d;
+  background: #E18787;
   margin-left: 8px;
   padding: 3px;
   border-radius: 2px;
   color: #fff;
   font-size: 12px;
   font-weight: bold;
+  text-shadow: 1px 0 0 #4d5156;
 }
 
 .weight-bold-text {
